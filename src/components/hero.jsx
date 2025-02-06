@@ -8,17 +8,17 @@ const HeroSection = () =>{
             </p>
             <div className="hero-btn">
             <button >Shop Now </button>
-            <button className="secondary">Category </button>   
+            <button className="secondary-btn">Category </button>   
          </div>
       <div className="Shopping">
             <span>Also Available on</span>
             <div className="brand-icons">
-               <img src="/images/shops.png" alt="shops" />
+               <img src="/images/shops.png" alt="brand-icons" />
             </div>   
          </div>
          </div>
       <div className="hero-image"></div>
-      <img src="/images/shoe_image.png" alt="shops" />
+      <img src="/images/shoe_image.png" alt="hero-image" />
    </main>
    
    );
