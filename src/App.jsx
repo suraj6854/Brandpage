@@ -1,6 +1,6 @@
 import './App.css'
 import HeroSection from './components/hero';
-import Navigation from './components/navigation';
+import Navigation from './components/Navigation';
 const App=() =>{
 return (
 <div>
